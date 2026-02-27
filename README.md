@@ -1,4 +1,4 @@
-# WgetCloud 专线机场 官方地址 (2026年2月26日更新)
+# WgetCloud 专线机场 官方地址 (2026年2月27日更新)
 最新地址：[wgetcloud.ltd](https://invite.wgetcloud.ltd/auth/register?code=EAv6F4)  
 ## 简介
 WgetCloud（原名 GaCloud）是业界知名的高端专线机场，以“稳定性高、技术自研、服务专业”著称，主要面向对网络质量有极高要求的商务办公、开发者以及追求极致观影体验的用户。
