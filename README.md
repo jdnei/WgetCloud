@@ -1,5 +1,14 @@
 # WgetCloud 专线机场 官方地址 (2026年7月28日更新)
-最新地址：[wgetcloud.ltd](https://to.iix.im/wc01)  
+WgetCloud 专线机场 官网地址
+最新地址：[wgetcloud.ltd](https://to.iix.im/wc01)</br>
+
+
+2026最新好用的机场推荐与节点分享：[https://github.com/jdnei/JiChangTuiJian](https://github.com/jdnei/JiChangTuiJian)</br>
+## Telegram VPN 机场福利社 #AD
+[机场抽奖群](https://331024.de/archives/choujiang)｜[机场聊天群](https://331024.de/archives/choujiang)｜[机场体验群](https://331024.de/archives/choujiang)</br>
+
+[https://331024.de/archives/choujiang](https://331024.de/archives/choujiang)
+
 ## 简介
 WgetCloud（原名 GaCloud）是业界知名的高端专线机场，以“稳定性高、技术自研、服务专业”著称，主要面向对网络质量有极高要求的商务办公、开发者以及追求极致观影体验的用户。
 ## 优势
