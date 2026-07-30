@@ -1,4 +1,4 @@
-# WgetCloud 专线机场 官方地址 (2026年7月30日更新)
+# WgetCloud 专线机场 官方地址 (2026年7月31日更新)
 WgetCloud 专线机场 官网地址</br>
 最新地址：[wgetcloud.ltd](https://to.iix.im/wc01)</br>
 官方地址：[wgetcloud.ltd](https://to.iix.im/wc01)</br>
