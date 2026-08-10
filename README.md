@@ -4,7 +4,7 @@
 # WgetCloud 专线机场 官方地址 (2026年8月10日更新)
 WgetCloud 专线机场 官网地址</br>
 `新用户注册，享85折优惠`</br>
-最新地址：[wgetcloud.ltd](https://to.iix.im/wc01)</br>
+最新地址：[wgetcloud.ltd](https://to.iix.im/wc02)</br>
 官方地址：[wgetcloud.ltd](https://to.iix.im/wc01)</br>
 
 2026最新好用的机场推荐与节点分享：[https://github.com/jdnei/JiChangTuiJian](https://github.com/jdnei/JiChangTuiJian)</br>
