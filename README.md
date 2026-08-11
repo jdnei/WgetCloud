@@ -1,7 +1,7 @@
 🇨🇳 中文 | 🇺🇸 [English](README_EN.md) | 🇷🇺 
 [Русский](README_RU.md) | 🇮🇷 [فارسی](README_FA.md)
 
-# WgetCloud 专线机场 官方地址 (2026年8月11日更新)
+# WgetCloud 专线机场 官方地址 (2026年8月12日更新)
 WgetCloud 专线机场 官网地址</br>
 `新用户注册，享85折优惠`</br>
 最新地址：[wgetcloud.ltd](https://to.iix.im/wc02)</br>
