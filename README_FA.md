@@ -1,6 +1,6 @@
  🇨🇳 [中文](README.md) | 🇺🇸 [English](README_EN.md) | 🇷🇺 [Русский](README_RU.md) | 🇮🇷 فارسی
 
-# آدرس رسمی WgetCloud Dedicated-Line VPN (به‌روزرسانی 3 سپتامبر 2026)
+# آدرس رسمی WgetCloud Dedicated-Line VPN (به‌روزرسانی 4 سپتامبر 2026)
 
 آدرس وب‌سایت رسمی WgetCloud Dedicated-Line VPN</br>
 جدیدترین آدرس: [wgetcloud.ltd](https://to.iix.im/wc01)</br>
