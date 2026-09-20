@@ -1,6 +1,6 @@
 🇨🇳 [中文](README.md) | 🇺🇸 English | 🇷🇺 [Русский](README_RU.md) | 🇮🇷 [فارسی](README_FA.md)
 
-# WgetCloud Dedicated-Line VPN Official Address (Updated September 19, 2026)
+# WgetCloud Dedicated-Line VPN Official Address (Updated September 20, 2026)
 
 WgetCloud Dedicated-Line VPN Official Website Address</br>
 Latest Address: [wgetcloud.ltd](https://to.iix.im/wc01)</br>
